@@ -1,0 +1,51 @@
+.serviceMain{
+    background-color: rgb(240, 233, 233);
+    padding: 40px 20px;
+    display: flex;
+    gap: 10px;
+}
+.serviceContainer1{
+    width: 100%;
+    text-align: center;
+    background-color: white;
+    padding: 20px 30px;
+    height: 400px;
+}
+.serviceItem{
+    margin-top: 50px;
+    cursor: pointer;
+}
+img{
+    width: 50px;
+    height: 50px;
+}
+.serviceProvide{
+    margin-top: 80px;
+    display: flex;
+    gap: 20px;
+}
+.serviceContainer2{
+    width: 100%;
+    text-align: center;
+    height: 400px;
+    display: flex;
+    gap: 20px;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+.serviceItem-b{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 290px;
+    background-color: white;
+}
+.serviceItem-c{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 290px;
+    background-color: white;
+}

@@ -1,0 +1,11 @@
+.myImg{
+    height: 70vh;
+}
+.itemCap{
+    position: relative;
+}
+.captionItem{
+    top: 140px;
+    left: 20%;
+    position: absolute;
+}
