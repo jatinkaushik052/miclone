@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/miclone/static/css/main.4d7a052e.css",
+    "main.js": "/miclone/static/js/main.37954042.js",
+    "index.html": "/miclone/index.html",
+    "main.4d7a052e.css.map": "/miclone/static/css/main.4d7a052e.css.map",
+    "main.37954042.js.map": "/miclone/static/js/main.37954042.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d7a052e.css",
+    "static/js/main.37954042.js"
+  ]
+}
